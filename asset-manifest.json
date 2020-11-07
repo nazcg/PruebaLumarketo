@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/PruebaLumarketo/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/PruebaLumarketo/static/js/main.ac1728b4.chunk.js",
+    "main.js.map": "/PruebaLumarketo/static/js/main.ac1728b4.chunk.js.map",
+    "runtime-main.js": "/PruebaLumarketo/static/js/runtime-main.0f21813e.js",
+    "runtime-main.js.map": "/PruebaLumarketo/static/js/runtime-main.0f21813e.js.map",
+    "static/js/2.8f46210f.chunk.js": "/PruebaLumarketo/static/js/2.8f46210f.chunk.js",
+    "static/js/2.8f46210f.chunk.js.map": "/PruebaLumarketo/static/js/2.8f46210f.chunk.js.map",
+    "static/js/3.a411a559.chunk.js": "/PruebaLumarketo/static/js/3.a411a559.chunk.js",
+    "static/js/3.a411a559.chunk.js.map": "/PruebaLumarketo/static/js/3.a411a559.chunk.js.map",
+    "index.html": "/PruebaLumarketo/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/PruebaLumarketo/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.8f46210f.chunk.js.LICENSE.txt": "/PruebaLumarketo/static/js/2.8f46210f.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/PruebaLumarketo/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f21813e.js",
+    "static/js/2.8f46210f.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.ac1728b4.chunk.js"
+  ]
+}
